@@ -1,0 +1,26 @@
+{
+  "gatewayApp": {
+    "devicemicroserviceDevice": {
+      "home": {
+        "title": "Devices",
+        "createLabel": "Create a new Device",
+        "createOrEditLabel": "Create or edit a Device",
+        "notFound": "No Devices found"
+      },
+      "delete": {
+        "question": "Are you sure you want to delete Device {{ id }}?"
+      },
+      "detail": {
+        "title": "Device"
+      },
+      "name": "Name"
+    }
+  },
+  "devicemicroserviceApp": {
+    "devicemicroserviceDevice": {
+      "created": "A new Device is created with identifier {{ param }}",
+      "updated": "A Device is updated with identifier {{ param }}",
+      "deleted": "A Device is deleted with identifier {{ param }}"
+    }
+  }
+}
